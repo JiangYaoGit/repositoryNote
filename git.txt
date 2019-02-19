@@ -41,7 +41,7 @@ git push（提交）
 （3）切回branchname
 git checkout branchname
 git merge master（将自己的代码也更新成最新的）
-git push（提交）
+git push（提交）  或强制提交git push -u origin master -f
 
 ========================================git 删除分支=========================================
 查看分支
